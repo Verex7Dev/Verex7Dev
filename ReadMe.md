@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Eu resolvo grandes desafios usando tecnologia❤️.<br><br>Do desenvolvimento backend usando JavaScript ou TypeScript ao desenvolvimento frontend usando ReactTS, sou apaixonado por descobrir coisas novas e usá-las para criar soluções de alta qualidade. Hoje, sou um desenvolvedor full stack de nível médio focado em desenvolvimento web.
+<br>Eu resolvo grandes desafios usando tecnologia❤️.<br><br>Do desenvolvimento backend usando JavaScript ou TypeScript ao desenvolvimento frontend usando React, sou apaixonado por descobrir coisas novas e usá-las para criar soluções de alta qualidade. Hoje, sou um desenvolvedor full stack de nível médio focado em desenvolvimento web.
 
 
 ## 🌐 Socials:
